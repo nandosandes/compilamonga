@@ -1,0 +1,22 @@
+int b, c;
+
+int oi(int d, int c)
+{
+}
+
+int[] main ( int[] c, float ab ) 
+{
+	int d;
+	d =10;
+	oi(d,d);
+	return c;
+}
+
+
+int b()
+{
+}
+
+
+
+
