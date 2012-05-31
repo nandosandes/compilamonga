@@ -1,0 +1,15 @@
+int b, c;
+
+float oi(float d, int[] c)
+{
+}
+
+float main ( int[] c, float ab ) 
+{
+	int[] d, i;
+	d = 10 * 10;
+	return 2.0;
+}
+
+
+
